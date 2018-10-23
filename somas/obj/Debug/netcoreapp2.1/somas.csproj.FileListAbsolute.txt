@@ -1,0 +1,11 @@
+/Users/aluno/Projects/somas/somas/bin/Debug/netcoreapp2.1/somas.deps.json
+/Users/aluno/Projects/somas/somas/bin/Debug/netcoreapp2.1/somas.runtimeconfig.json
+/Users/aluno/Projects/somas/somas/bin/Debug/netcoreapp2.1/somas.runtimeconfig.dev.json
+/Users/aluno/Projects/somas/somas/bin/Debug/netcoreapp2.1/somas.dll
+/Users/aluno/Projects/somas/somas/bin/Debug/netcoreapp2.1/somas.pdb
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.csprojAssemblyReference.cache
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.AssemblyInfoInputs.cache
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.AssemblyInfo.cs
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.dll
+/Users/aluno/Projects/somas/somas/obj/Debug/netcoreapp2.1/somas.pdb
